@@ -22,3 +22,19 @@ Testando a corrente continua da fonte:
 
 Utilizando o testador de fonte de alimentação ATX:
 	Resultado são os mesmos
+
+Ligando os fios na protoboard 
+	Ligando os fans em paralelo (independente)
+		Fazendo o jump para ligar em serie (dependente)
+
+Com o multimetro em NPN/LED
+	Led com seu lado maior (positivo) e seu lado menor (negativo)
+		Conectamos no multimetro Led acendeu tudo ok
+		
+		
+Testando o risistor com o multimetro em Ω
+	Valor de 328
+	
+Montar um circuito na protoboard 
+	utilizando o led com o resistor
+	
