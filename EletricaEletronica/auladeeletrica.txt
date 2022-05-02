@@ -1,1 +1,24 @@
 Criando um diretorio e arquivo no GitHub
+Data: 27/04/2022
+
+Testando a tomada da bancada do SENAC:
+	Com o multimetro em alternado fiz a medição 122,3V
+		
+Testando a continuidade do cabo de força DESLIGADO:
+	Com o multimetro em continuidade fiz a medição do cabo de força	
+		Todos os resultados foram 0,0 CABO SEM RESISTENCIA
+
+Testando o cabo de força na tomada:
+	Com o multimetro em alternado fiz a medição do cabo de força
+		Neutro e fase com o resultado de 122,3V
+		Terra e neutro 00,0
+		
+Ligando a fonte de alimentação com clips:
+	Com o clips no fio verde e preto / PSON (Power Switch - ON/OFF)
+	
+Testando a corrente continua da fonte:
+(Obs: 3,3V-Laranja, 5V-VERMELHO e 12V-AMARELO)
+	Resultado da fonte AMARELO 12V / VERMELHO 5V / LARANJA 3,3V.
+
+Utilizando o testador de fonte de alimentação ATX:
+	Resultado são os mesmos
