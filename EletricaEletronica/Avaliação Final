@@ -1,0 +1,14 @@
+Testar tensao elétrica da tomada ( corrente alternada ):
+  Valores: Fase + Neutro = 122,1 / Terra + Fase = 123,1 / Terra + Neutro 00,3
+
+
+Teste de continuidade do cabo de força ( teste de diodo ):
+  Valores: Terra = 00,0 / Neutro = 00,0 / Fase = 00,0
+  
+
+Testar a Resistência do cabo de força ( Teste de 200 ohms):
+  Valores: Terra = 00,4 / Neutro = 00,4 / Fase = 00,4
+
+
+Testar as tensões elétricas no cabo ( Corrente alternada ):
+  Valores: Fase + Neutro = 122,3 / Terra + Fase = 122,5 / Terra + Neutro = 00,3
