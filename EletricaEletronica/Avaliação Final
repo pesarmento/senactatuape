@@ -12,5 +12,4 @@ Testar as tensões elétricas no cabo ( Corrente alternada ):
 
 
 Testar a fonte de alimentação com o testador de fonte:
-  Valores: -12V = 12.2 / +12V = 12.3 / 5VSB = 5.0 / PG = 260ms / +5V = 5.1 / +12V1 = 12.3 / +3.3V = 3.4
-
+  Valores: -12V = 12.2 / +12V = 12.3 / 5VSB = 5.0 / PG = 260ms / +5V = 5.1 / +12V1 = 12.3 / +3.3V = 3.4V
