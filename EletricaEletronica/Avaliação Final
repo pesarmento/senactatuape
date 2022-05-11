@@ -13,3 +13,15 @@ Testar as tensões elétricas no cabo ( Corrente alternada ):
 
 Testar a fonte de alimentação com o testador de fonte:
   Valores: -12V = 12.2 / +12V = 12.3 / 5VSB = 5.0 / PG = 260ms / +5V = 5.1 / +12V1 = 12.3 / +3.3V = 3.4V
+
+Montar a Protoboard e fazer um circuito de 5V ( Cabo vermelho 5V + Preto 0V/com/terra )
+  Montar um circuito com 02 multimetros 
+    Primeiro multimetro: Testa a tensão eletrica ( 20V - CC/DC )
+    Segundo multimetro: Testar corrente eletrica ( 10A )
+    ( OBS: MUDAR O CABO DO MULTIMETRO PARA CORRENTE ELETRICA )
+Ligando os coolers na protoboard
+Testando os leds: 1580 / 806 / 1530 / 1576
+Testando o resistor: 326
+  Ligando os leds com o resistor na protoboard
+    Apos finalização ligamos 3 circuitos no medidor de potencia 
+      Valor final: 32.0W
