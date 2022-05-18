@@ -1,0 +1,34 @@
+#01_ Instalação dos Navegadores (GDEB-GTK)
+	_a - Google Chrome /
+	_b - Microsoft Edge/
+	_c - Opera/
+	
+#02_ Instalação do suporte ao TTF (TrueType Fonts)
+	Gerenciador de Aplicativo (Pesquisar)
+
+============================== DESAFIO DA AULA DE HOJE =================================
+#03_ Instalação dos Pacote Office
+	 _a - Microsoft TrueType Core Fonts (Gerenciador de Aplicativo)
+	 _b - WPS Office for Linux (Pacote DEB) X
+	 _c - FreeOffice for Linux (Pacote DEB) X
+	 _d - OnlyOffice Desktop for Linux (AppImagem) <-- PESQUISAR O QUE É APPIMAGEM X
+	 _e - Microsoft Teams for Linux (Pacote DEB) X
+	 _f - Skype for Linux (Pacote DEB) X
+	 _g - KolourPaint (Gerenciador de Aplicativo) X
+
+#04_ Instalação dos Editores de Texto para Desenvolvimento
+	 _a - Visual Studio Code for Linux (Pacote DEB) <-- VAMOS TRABALHAR BASTANTE COM ELE X
+	 _b - NotepadQQ for Linux (Gerenciador de Aplicativo) X
+	 _c - Atom for Linux (Pacote DEB) X
+	 _d - Sublime for Linux (Pacote DEB) X
+	 
+#05_ Instalação de Reprodutores de Música Editor de Áudio e Vídeo
+	_a - VLC VideoOnLan for Linux (Gerenciador de Aplicativo) X
+	_b - Audacity (Gerenciador de Aplicativo) X
+	_c - Kdenlive (AppImagem) <-- PESQUISAR O QUE É APPIMAGEM X FALTA TERMINAR O DOWNLOAD
+	
+#06_ Personalizar o Desktop do Linux Mint
+	_a - Cairo-dock (Gerenciador de Aplicativo) X
+	_b - Personalizar Painel e Applets
+
+#05_ Conhecendo o Básico de Bash/Shell (Apt e Apt-Get)
