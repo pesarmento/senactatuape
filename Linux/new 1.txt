@@ -1,0 +1,45 @@
+Maquina virtual boa para fazer estudos / testes 	
+	Não afeta sua maquina fisica
+		VTX precisa estar habilitado na bios para funcionar a maquina virtual no VirtualBox	
+
+Aumentar as memorias de 2GB para 4GB 	
+	finalizar as instalações de software
+		Documentar tudo no GitHub
+			cuidado com o software do tipo ( SNAP, FLATHUB, PPA e *.TAR.GZ ) isso sera visto no futuro em GNU/LINUX AVANÇADO
+
+Ctrl + Alt + Backspace = reseta o linux
+	Ctrl + Alt + T 	= abre Terminal 
+		Ctrl + Alt + F1 abre prompet
+			Ctrl + Alt + F7 = sai do prompet
+
+Comandos: 
+	Tab = preencher
+	Ctrl + L = Limpar
+	id = Identificação
+	$ = usuario comum nao pode fazer nada
+para ser root tem que digitar um comando = sudo	
+	sudo -i = para virar o hoot (root pode fazer tudo no linux)
+	# = rood
+	ctrl + d = sair (exit) 
+	apt = gerenciador de aplicativos 
+	sudo apt update = baixar da internet varios app atualizando varias listas
+	seta para cima mostra o ultimo comando que digitou
+
+
+sudo apt update <-- atualizar as listas do apt	
+	sudo apt upgrade <--  atualiza todos os software
+		sudo apt full-upgrade <-- atualiza todos os software atualização completa com seus dependentes 
+			sudo apt dist-upgrade <-- atualiza o sistema operacional ( Kernel sistema operacional do Linux ) 
+
+Comandos de limpeza
+	sudo apt auroremove <-- faz a remoção de software nao mais necessarios 
+		sudo apt autoclean <-- faz a limpeza do sistema 
+			sudo reboot = GAME OVER ( opção de delisgar/reiniciar )
+
+Instalar aplicativo 
+	sudo apt install <-- instala aplicativo
+		sudo apt install psensor ( instalamos esse app )
+	ctrl + c = para a instalação corrompendo 
+		
+	
+		 
