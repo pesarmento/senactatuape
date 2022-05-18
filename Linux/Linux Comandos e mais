@@ -1,0 +1,13 @@
+Maquina virtual boa para fazer estudos / testes 	
+	Não afeta sua maquina fisica
+		VTX precisa estar habilitado na bios para funcionar a maquina virtual no VirtualBox	
+
+Aumentar as memorias de 2GB para 4GB 	
+	finalizar as instalações de software
+		Documentar tudo no GitHub
+			cuidado com o software do tipo ( SNAP, FLATHUB, PPA e *.TAR.GZ ) isso sera visto no futuro em GNU/LINUX AVANÇADO
+
+Ctrl + Alt + Backspace = reseta o linux
+	Ctrl + Alt + T 	= abre Terminal 
+		Ctrl + Alt + F1 abre prompet
+			Ctrl + Alt + F7 = sai do prompet	
