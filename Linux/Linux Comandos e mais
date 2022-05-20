@@ -23,8 +23,8 @@ Comandos:
 			Ctrl + Alt + F1 abre prompet
 				Ctrl + Alt + F7 = sai do prompet	
 					Ctrl + L = Limpar
-						ctrl + d = sair (exit) 
-							ctrl + c = para a instalação corrompendo 
+						Ctrl + d = sair (exit) 
+							Ctrl + c = para a instalação corrompendo 
 
 
 	sudo apt update <-- atualizar as listas do apt	
