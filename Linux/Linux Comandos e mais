@@ -61,3 +61,6 @@ Clone repositorios do github:
 	intalar o Git
 	inserir o comando : git clone
 	apos isso copiar a url do repositorio 
+	
+	git clone	( clonar um repositório remoto )
+	git pull	( atualizar o repositório locar )
