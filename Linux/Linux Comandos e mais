@@ -68,3 +68,5 @@ Clone repositorios do github:
 	git config --global user.name 	( usuario de commit )
 	git config --global user.email 	( usuario de acesso )
 	git config --list		( lista as configurações )
+	
+	git add . 			( adicionar as mudanças )
