@@ -12,7 +12,7 @@ Comandos:
 	# = rood
 	$ = usuario comum não pode fazer nada
 	Para ser root tem que digitar um comando = sudo
-	sudo -i = para virar o hoot (root pode fazer tudo no linux)
+	sudo -i = para virar o root (root pode fazer tudo no linux)
 	id: identificação
 	tab: preencher
 	apt = gerenciador de aplicativos
