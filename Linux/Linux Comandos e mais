@@ -70,3 +70,4 @@ Clone repositorios do github:
 	git config --list		( lista as configurações )
 	
 	git add . 			( adicionar as mudanças )
+	git commit -m "atualizacao"	( confirmar mudanças )
