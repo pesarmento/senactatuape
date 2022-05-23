@@ -42,3 +42,16 @@ Comandos:
 	Instalar aplicativo:
 		sudo apt install <-- instala aplicativo
 			sudo apt install psensor ( instalamos esse app )
+			
+			
+Comandos para atualizar: 
+	
+	sudo -i
+	sudo apt update
+	sudo apt upgrade
+	sudo apt full-upgrade
+	sudo apt dist-upgrade 
+	sudo apt autoremove
+	sudo apt autoclean
+	sudo apt clean 
+	sudo apt reboot
