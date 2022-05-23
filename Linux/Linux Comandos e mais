@@ -71,3 +71,4 @@ Clone repositorios do github:
 	
 	git add . 			( adicionar as mudanças )
 	git commit -m "atualizacao"	( confirmar mudanças )
+	git push 			( atualizar o repositório remoto )
