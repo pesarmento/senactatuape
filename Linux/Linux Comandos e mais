@@ -55,3 +55,9 @@ Comandos para atualizar:
 	sudo apt autoclean
 	sudo apt clean 
 	sudo reboot
+
+Clone repositorios do github:
+	
+	intalar o Git
+	inserir o comando : git clone
+	apos isso copiar a url do repositorio 
