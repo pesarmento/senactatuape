@@ -27,3 +27,5 @@ ss64 site para comandos linux/mac/windowns
 	marca texto verde = PERIGO
 	cor vermelha = arquivo compactado 
 	
+	Nunca digita esse comando 
+	(sudo rm -Rd/*)
