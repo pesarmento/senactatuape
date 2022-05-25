@@ -1,0 +1,37 @@
+Objetivo da atividade de hoje: 25/05/2022
+
+Primeira etapa.: Ligar o Linux Mint;
+Segunda etapa..: Verificar se está acessando a Internet;
+Terceira etapa.: Se autenticar na sua conta do Github;
+
+Quarta etapa...: Caso queira atualizar o sistema, utilize:
+				 MintUpdate ou Cltrl+Alt+T (Atalho do Terminal Bash/Shell)
+				 sudo apt update
+				 sudo apt upgrade
+				 sudo apt full-upgrade
+				 sudo apt dist-upgrade
+				 sudo apt autoremove
+				 sudo apt autoclean
+				 sudo apt clean
+				 sudo reboot
+				 
+Sexta etapa....: AGUARDAR OS PRÓXIMOS PROCEDIMENTOS DE UTILIZAÇÃO DO LINUX MINT, VISUAL STUDIO CODE, GITHUB E INTEGRAÇÃO COM O COMANDO GIT
+
+================== DESAFIO MAIS MELHOR DE BOMMMMMMMM ====================
+OBSERVAÇÃO IMPORTANTE: ANTES DE INICIAR O DESAFIO DIGITAR O
+COMANDO: history -c <Enter> depois: exit <Enter> depois: Ctrl+Alt+T e BOA SORTE!!!!!!! NÃO ESQUECER DE DOCUMENTAR NO GITHUB COM O PRINT SCREEN DO COMANDO: history
+
+#01_ Pesquisar o comando: echo
+	CRIAR: um arquivo chamado: senac01.txt com o comando echo	Concluido
+	
+#02_ Pesquisar o comando: cat
+	LISTAR: o conteúdo e a quantidade de linhas do arquivo: /etc/services	Concluido
+	
+#03_ Pesquisar o comando: head
+	LISTAR: o conteúdo e as 20 linhas iniciar do arquivo: /etc/services	Concluido
+	
+#04_ Pesquisar o comando: tail
+	LISTAR: o conteúdo e as 20 linhas finais do arquivo: /etc/services	Concluido
+	
+#05_ Pesquisar o comando: rmdir	
+	REMOVER: o diretório teste01/		Concluido
