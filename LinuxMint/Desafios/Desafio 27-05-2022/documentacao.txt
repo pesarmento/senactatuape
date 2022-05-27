@@ -1,0 +1,10 @@
+No desafio de hoje instalamos diferentes Sistemas Operacional Linux sendo eles: Lubuntu / Kubuntu / Ubuntu / Xubuntu
+
+Copiei o arquivo ISO da pasta publica para o computador
+	Abri o VirtualBox para configurar as maquinas
+		Fiz a instalação da ISO Lubuntu / Kubuntu / Ubuntu / Xubuntu
+			
+
+O processo da configuração da VirtualBox foi normal
+	A instalação da ISO são bem parecidas com o Mint o que muda realmente é a interface!
+		
