@@ -1,0 +1,31 @@
+ss64 site para comandos linux/mac/windowns
+	Guia foca linux 
+	
+	
+	pwd	<--	mostra onde voce esta
+	ls	<--	mostra as listas
+	ctrl <-- atalho para o comando clear
+	ls -l <-- mostra a lista em detalhes 
+	ls -lh
+	ls lha
+	ln <-- criar arquivo simbolico
+	cd <-- mudar de diretorio
+	/ <-- Root (RAIZ)
+	cd ~ <-- comando para voltar a pasta pessoal
+	mkdir <-- criar diretorio ( diretorio, repositorio, pasta sao as mesmas coisas)
+	mkdir -v NOME DA PASTA <-- criar varias pasta ao mesmo tempo
+	touch <-- serve para atualizar data e hora so que se o arquivo nao existe ele cria 
+	mkdir -p cria varias pastas dentro de uma mas antes utilizar o comando -v para criar a pasta principal
+	mkdir -pv cria as pastas dentro da outra 
+	
+	
+	TMP (para invadir computadores)
+	
+	Cor azul faz referencia a diretorio 
+	cor cinza ou branco é arquivo
+	cor azul ciano		windowns= atalho		Mint= link simbolico 
+	marca texto verde = PERIGO
+	cor vermelha = arquivo compactado 
+	
+	Nunca digita esse comando 
+	(sudo rm -Rd/*)
