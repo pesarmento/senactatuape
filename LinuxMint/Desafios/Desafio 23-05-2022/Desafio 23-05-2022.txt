@@ -1,0 +1,37 @@
+Desafio de hoje: 23/05/2022
+
+
+	git clone	(Clonar um repositório remoto)
+	git pull	(Atualizar o repositório local)
+	
+	git add .					(Adicionar as mudanças)
+	git commit -m "Atualizacao"	(Confirmar as mudanças)
+	git push					(Atualiza o Repositório remoto)
+	
+#01_ Clonar o seu projeto do seu repositório do Github: /senactatuape
+
+#02_ Reorganizar os diretórios do seu projeto:
+	 DICA: VOCÊ PODE USAR DENTRO DO VISUAL STUDIO OU PELO GERENCIADOR DE ARQUIVOS, O QUE VOCÊ ACHAR MELHOR:
+		EletricaEletronica	<-- deixar o padrão, se tiver ruim, hora 
+								de arrumar
+		LinuxMint			<-- se não tem faça a criação, se você
+								já tem, renomeio
+
+#03_ Reorganizar os arquivos nos seus repositórios;
+	DICA: VOCÊ PODE USAR DENTRO DO VISUAL STUDIO OU PELO GERENCIADOR DE ARQUIVOS, O QUE VOCÊ ACHAR MELHOR:
+		LinuxMint		<-- mover os arquivos espalhados na Raiz
+							do seu repositório referente ao Linux Mint,
+							organizar no diretório e altera os nomes das Imagens ou Arquivos para facilitar o acesso.
+							
+#04_ Copiar os arquivos de meu Github para o seu repositório LinuxMint
+	Diretório: https://github.com/vaamonde/ubuntu-2004/tree/main/scripts/settings
+	
+	Arquivos:
+		VSCode.sh 		(Documentação do Visual Studio Code)
+		Git-Github.sh	(Documentação do Git e Github)
+		Bash.sh			(Documentação dos Comandos Básicos do Bash)
+		Vim.sh			(Documentação dos Comandos Básicos do Vim)
+		Shell.sh		(Documentação dos Comandos Básicos de Shell)
+		
+#05_ Criar um Subdiretório no Diretório LinuxMint dos Print Screen
+		ORGANIZAR OS PRINT SCREEN COM DATAS DE ATIVIDADE
