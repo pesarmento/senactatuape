@@ -1,0 +1,31 @@
+github
+	
+sields.io (para fazer selo no GitHub)
+iconfinder (para escolher icones)
+Principal HOJE:
+Selo 
+Licença 
+Autor
+Descrição 
+
+Configurações iniciais: 
+	
+	git config --global user.name "nome de usuario"
+	git config --global user.email "email do usuario"
+	
+Comandos basicos:
+	
+	clear -> Limpar 
+	pwd -> exibir o diretorio atual 
+	
+Clonando um repositorio:
+
+	git clone (mais o link do repositorio)
+	
+Atualizando repositorio clonado:
+	
+	git pull -> Tira arquivo da nuvem para a maquina local
+
+[]( LINK ) deixa um link
+
+![]para colocar um icone/gif
