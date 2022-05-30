@@ -10,4 +10,5 @@ Repositório das aulas do técnico em informática do SENAC Tatuapé!
 ##Playlist:
 
 [EletroEletronica](https://sites.google.com/view/tecnicoeminformatica/p%C3%A1gina-inicial)
+
 [MaterialLinux](https://sites.google.com/view/tecnicoeminformatica/desktop-gnulinux)
