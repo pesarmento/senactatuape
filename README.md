@@ -6,3 +6,6 @@ Repositório das aulas do técnico em informática do SENAC Tatuapé!
 
 ## Autor:
 ## Pedro Sarmento
+
+##Playlist:
+[EletroEletronica](https://sites.google.com/view/tecnicoeminformatica/p%C3%A1gina-inicial)
