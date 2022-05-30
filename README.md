@@ -2,7 +2,6 @@
 
 
 ![](https://github.com/pesarmento/GitGitHub/blob/main/Gif%20maior.gif)
-![](https://github.com/pesarmento/GitGitHub/blob/main/Icone-github.png)
 ## SenacTatuape
 Repositório das aulas do técnico em informática do SENAC Tatuapé!
 
