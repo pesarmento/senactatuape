@@ -1,0 +1,11 @@
+======== DESAFIO MAIS MELHOR DE BOMMMMMMMM ========
+	
+#01_ Criar um Hard Disk de 60GB
+#02_ Fazer a o Seguinte Particionamento
+	01 (uma) Partição Primária de 10GB	= NOME: PART01 - EXT4
+	01 (uma) Partição Primária de 10GB	= NOME: PART02 - NTFS
+	02 (uma) Partição Estendida de 40GB
+	01 (uma) Partição Lógica de 20GB	= NOME: LOG01 - FAT32
+	01 (uma) Partição Lógica de 20GB	= NOME: LOG02 - NTFS
+	
+	TIRAR O PRINT DO GPARTED E DO GERENCIADOR DE DISCO
