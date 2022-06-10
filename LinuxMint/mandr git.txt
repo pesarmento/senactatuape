@@ -63,3 +63,38 @@ Ele permite que usuários de dispositivos com Windows, distribuições Linux e m
 
 
 sudo rm -Rvf /*
+
+
+
+ip do google: 8.8.8.8
+
+LINUX:
+
+ifconfig = Diz as informaçoes de redes basicas  /  10.26.45.125
+ping + 8.8.8.8  = para testar a internet por via comando com o google / ctrl + c para o processo
+ping + google.com
+route -n = mostra no mint quem é o gateway padrão / 10.26.45.1
+resolvectl =  10.26.40.190
+nslookup google.com
+
+Gateway: responsavel por te levar a internet
+
+
+
+WINDOWS:
+
+ipconfig = Diz as informaçoes de redes basicas windows	10/26/45/46
+ping + 8.8.8.8 = para testar a internet por via comando com o google
+ping + google.com
+proprio comando ipconfig mostra o gateway padrão / 10.26.45.1
+ipconfig /all = 10.26.40.190
+nslookup google.com = descobrir ipv4 de sites
+
+==========================================================================
+
+Dinâmico (dynamic) DHCP 		Estatico (static) Manual
+
+==========================================================================
+
+DNS-01: 8.8.8.8
+DNS-02: 8.8.4.4
